@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Code Mixed Manglish Embedding Vectors - Latin Script",
+      "tensorShape": [
+        15000,
+        400
+      ],
+      "tensorPath": "https://media.githubusercontent.com/media/goru001/nlp-for-manglish/master/language-model/ulmfit_embeddings_latin_script.tsv",
+      "metadataPath": "https://media.githubusercontent.com/media/goru001/nlp-for-manglish/master/language-model/ulmfit_embeddings_metadata_latin_script.tsv"
+    }
+  ]
+}
